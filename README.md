@@ -46,14 +46,6 @@
 
 ---
 
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigDataBrothers&theme=transparent&hide_border=true&show_icons=true&custom_title=Mehdi%20Yassine%20on%20GitHub" width="50%" />
-</p>
-
----
-
 ## 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-yassine-44b123167/)
