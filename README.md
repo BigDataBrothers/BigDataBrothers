@@ -74,7 +74,3 @@
 [![Mail](https://img.shields.io/badge/Email-mehdiyassine1203@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehdiyassine1203@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BigDataBrothers&icon=0&color=0" alt="Visitor Count" />
-</p>
