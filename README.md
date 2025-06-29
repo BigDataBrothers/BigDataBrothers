@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <sub>Built with ❤️ and curiosity • Profile auto-generated using Markdown</sub>
+  <sub>Built with ❤️ and curiosity</sub>
 </p>
