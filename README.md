@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Étudiant à [42](https://42.fr), ayant complété le **tronc commun**
-- 💡 J’aime créer des **jeux**, construire des **outils web**, et explorer les domaines comme l’**IA** et la **data**
-- 🚀 Je suis actuellement à la recherche d’un **stage** en développement
-- 🛠️ Je consacre mon temps libre à des projets perso et à la veille technologique
-- 🧠 J’apprends chaque jour, avec l’envie constante de m'améliorer
+- 🎓 Student at [42](https://42.fr),  having completed the **core curriculum**
+- 💡 I love creating **games**, building **web tools**, and exploring fields like **AI** and **data**
+- 🚀 I'm currently looking for a development **internship**
+- 🛠️ I spend my free time on personal projects and technology watch
+- 🧠 I'm learning every day, with a constant desire to improve myself
 
 ---
 
