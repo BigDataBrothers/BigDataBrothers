@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Mehdi Yassine 👋</h1>
 <p align="center">
-  <strong>Full-Stack Developer | Game Developer | Tech Enthusiast</strong><br>
+  <strong> Software Engineer | Tech Enthusiast</strong><br>
   Curious, passionate, and always building things that matter.
 </p>
 
