@@ -50,7 +50,6 @@
 ## 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-yassine-44b123167/)
-[![Email](https://img.shields.io/badge/mehdiyassine1203@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehdiyassine1203@gmail.com)
 
 ---
 
