@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Mehdi Yassine 👋</h1>
+<h1 align="center">Hi, I’m Mehdi Yassine</h1>
 <p align="center">
   <strong> Software Engineer | Tech Enthusiast</strong><br>
   Curious, passionate, and always building things that matter.
@@ -6,19 +6,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Student at [42](https://42.fr),  having completed the **core curriculum**
-- 💡 I love creating **games**, building **web tools**, and exploring fields like **AI** and **data**
-- 🚀 I'm currently looking for a development **internship**
-- 🛠️ I spend my free time on personal projects and technology watch
-- 🧠 I'm learning every day, with a constant desire to improve myself
+-  Student at [42](https://42.fr),  having completed the **core curriculum**
+-  I love creating **games**, building **web tools**, and exploring fields like **AI** , **data** and **Cybersecurity**
+-  I'm currently looking for a development **internship**
+-  I spend my free time on personal projects and technology watch
+-  I'm learning every day, with a constant desire to improve myself
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-**Languages**  
+**Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -45,9 +45,10 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
+
 ---
 
-## 🌐 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-yassine-44b123167/)
 
