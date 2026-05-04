@@ -1,7 +1,7 @@
 <h1 align="center">Mehdi Yassine</h1>
 
 <p align="center">
-  Software Engineer — systems, web, and everything in between.
+  Software Engineer : systems, web, and everything in between.
 </p>
 
 ---
@@ -12,17 +12,17 @@ I got into programming through video games and a simple question:
 *how does this actually work?*
 That question never really went away.
 
-I studied at **[42 Paris](https://42.fr)** — a project-based school with no teachers
+I studied at **[42 Paris](https://42.fr)** a project-based school with no teachers
 and no hand-holding. You figure things out, review each other's code,
 and ship or fail. It taught me autonomy, rigor,
 and how to be comfortable with not knowing the answer yet.
 
 I'm currently interning at **[INSEE](https://www.insee.fr)** as a full-stack developer.
 My mission: benchmark modern frontend frameworks across accessibility, testability,
-performance and maintainability — to inform an upcoming architecture decision.
+performance and maintainability - to inform an upcoming architecture decision.
 
-I'm drawn to concrete problems and fields that keep moving — systems,
-web, game development, AI, data — the kind of work where you can see what you built.
+I'm drawn to concrete problems and fields that keep moving - systems,
+web, game development, AI, data - the kind of work where you can see what you built.
 
 When I'm stuck: I read, I iterate, I prototype.
 Sometimes I ask someone who knows better.
@@ -32,7 +32,7 @@ Sometimes I ask someone who knows better.
 ## Projects
 
 **[ft_transcendence](https://github.com/BigDataBrothers/ft_transendance)**
-Full-stack web application — the final project of the 42 core curriculum.
+Full-stack web application - the final project of the 42 core curriculum.
 Real-time multiplayer Pong, user authentication, live chat.
 `TypeScript` `Django` `PostgreSQL` `Docker`
 
@@ -47,11 +47,11 @@ using only basic graphic primitives.
 `C` `Mathematics` `Graphics`
 
 **[inception](https://github.com/BigDataBrothers/Inception)**
-A complete Docker-based infrastructure: Nginx, WordPress, MariaDB —
+A complete Docker-based infrastructure: Nginx, WordPress, MariaDB -
 all containerized and orchestrated via docker-compose.
 `Docker` `Nginx` `MariaDB` `Shell`
 
-**Cabinet dentaire — client project**
+**Cabinet dentaire - client project**
 Design and development of a professional website for a dental practice.
 `Next.js` `Sanity` `Vercel`
 
